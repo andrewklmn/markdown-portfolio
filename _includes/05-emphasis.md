@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+HTML/HTML5, CSS/SCSS/SASS, **JS**/Jquery/React, PHP, **C/C+**/Arduino/Mbed/PlatformIP/STM32/PIC16, *Photoshop*,*Illustrator*,*CorelDRAW*
